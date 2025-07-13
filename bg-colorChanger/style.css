@@ -3,7 +3,11 @@
     justify-content: center;
     align-items: center;
     margin-top: 750px;
-    gap: 10px;;
+    gap: 20px;
+}
+
+.btn-span {
+    background-color: yellow;
 }
 
 #btn {
@@ -13,47 +17,47 @@
     border: 1px solid grey;
 }
 
-.Green {
+.green {
     background-color: green;
     color: white;
     font-size: 16px;
     font-weight: bold;
 }
 
-.Yellow {
+.yellow {
     background-color: yellow;
     font-size: 16px;
     font-weight: bold;
 }
 
-.Blue {
+.blue {
     background-color: blue;
     color: white;
     font-size: 16px;
     font-weight: bold;
 }
 
-.orange-red {
+.orangered {
     background-color: orangered;
     color: white;
     font-size: 16px;
     font-weight: bold;
 }
 
-.Black {
+.black {
     background-color: black;
     color: white;
     font-size: 16px;
     font-weight: bold;
 }
 
-.palette-1 {
+.greenyellow {
     background-color: greenyellow;
     font-size: 16px;
     font-weight: bold;
 }
 
-.palette-2 {
+.lawngreen {
     background-color: lawngreen;
     font-size: 16px;
     font-weight: bold;
