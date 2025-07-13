@@ -1,0 +1,60 @@
+.btn-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 750px;
+    gap: 10px;;
+}
+
+#btn {
+    height: 2.5rem;
+    width: 6rem;
+    border-radius: 10px;
+    border: 1px solid grey;
+}
+
+.Green {
+    background-color: green;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.Yellow {
+    background-color: yellow;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.Blue {
+    background-color: blue;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.orange-red {
+    background-color: orangered;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.Black {
+    background-color: black;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.palette-1 {
+    background-color: greenyellow;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.palette-2 {
+    background-color: lawngreen;
+    font-size: 16px;
+    font-weight: bold;
+}
